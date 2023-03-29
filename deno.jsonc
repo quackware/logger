@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "ci": "deno test -A --lock=deno.lock",
+    "write": "deno test -A --lock=deno.lock --lock-write"
+  },
+  "lint": {
+    "rules": {
+      "exclude": ["no-inferrable-types"]
+    }
+  }
+}
