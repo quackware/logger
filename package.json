@@ -1,5 +1,5 @@
 {
-  "name": "logger",
-  "description": "$QUACKWRE_PACKAGE_DESCRIPTION",
+  "name": "@quackware/logger",
+  "description": "Logger functionality",
   "version": "0.0.1"
 }
